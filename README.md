@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iremyasar16
-- 👀 I’m interested in front-end developer, spiritual things,psychology and data analys.
+- 👀 I’m interested in front-end developer, spiritual things,psychology and data analysis.
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me irem.yasar@aiesec.net
